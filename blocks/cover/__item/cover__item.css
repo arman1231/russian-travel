@@ -5,15 +5,9 @@
   justify-content: center;
   align-items: center;
   min-height: 740px;
-<<<<<<< HEAD
-<<<<<<< HEAD
   background: no-repeat center/cover url("../../../images/cover-trains.jpg") #2A2C2F;
-=======
   background: no-repeat center/cover url("./images/cover-trains.jpg") #2A2C2F;
->>>>>>> 070d5bac4496a0c569c057d1ad9be1d9abad58fb
-=======
   background: no-repeat center/cover url("./images/cover-trains.jpg") #2A2C2F;
->>>>>>> 070d5bac4496a0c569c057d1ad9be1d9abad58fb
   text-decoration: none;
   position: relative;
   z-index: 0;
@@ -41,30 +35,18 @@
 @media screen and (max-width: 1023px) and (min-width:768px) {
   .cover__item{
     margin: 90px 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
     background: no-repeat center/contain url("../../../images/cover-trains.jpg") #2A2C2F;
-=======
     background: no-repeat center/contain url("./images/cover-trains.jpg") #2A2C2F;
->>>>>>> 070d5bac4496a0c569c057d1ad9be1d9abad58fb
-=======
     background: no-repeat center/contain url("./images/cover-trains.jpg") #2A2C2F;
->>>>>>> 070d5bac4496a0c569c057d1ad9be1d9abad58fb
     min-height: 480px;
   }
 }
 @media screen and (max-width: 767px) and (min-width: 320px) {
   .cover__item {
     margin: 66px 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
     background: no-repeat center/contain url("../../../images/cover-trains.jpg") #2A2C2F;
-=======
     background: no-repeat center/contain url("./images/cover-trains.jpg") #2A2C2F;
->>>>>>> 070d5bac4496a0c569c057d1ad9be1d9abad58fb
-=======
     background: no-repeat center/contain url("./images/cover-trains.jpg") #2A2C2F;
->>>>>>> 070d5bac4496a0c569c057d1ad9be1d9abad58fb
     min-height: 200px;
   }
 }

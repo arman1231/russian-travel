@@ -1,0 +1,14 @@
+.overview__title {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+  color: #ffffff;
+  margin: 0;
+}
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .overview__title {
+    font-size: 32px;
+    line-height: 109%;
+  }
+}

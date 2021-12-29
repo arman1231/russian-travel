@@ -1,0 +1,12 @@
+.cards__headings {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 48px;
+}
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .cards__headings {
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+    padding: 0 16px 0 16px;
+  }
+}

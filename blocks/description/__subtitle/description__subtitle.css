@@ -1,0 +1,16 @@
+.description__subtitle {
+  font-weight: 400px;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+  margin: 32px 0 0 0;
+  max-width: 640px;
+}
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .description__subtitle {
+    font-size: 16px;
+    line-height: 125%;
+    margin: 16px 0 0 0;
+  }
+}

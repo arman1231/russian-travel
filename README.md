@@ -28,4 +28,4 @@ MIT
 
 **Свободное копирование**
 
-[site]: <https://students-yandex.github.io/russian-travel/index.html>
+[site]: <https://arman1231.github.io/russian-travel/index.html>

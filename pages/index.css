@@ -2,11 +2,13 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/wrapper/wrapper.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__gallery/page__gallery.css);
 @import url(../blocks/page/__footer/page__footer.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__link/_active/header__link_active.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__title/description__title.css);
 @import url(../blocks/description/__subtitle/description__subtitle.css);
@@ -18,13 +20,16 @@
 @import url(../blocks/overview/__title/overview__title.css);
 @import url(../blocks/overview/__text/overview__text.css);
 @import url(../blocks/overview/__list/overview__list.css);
-@import url(../blocks/overview/__gallery/overview__gallery.css);
-@import url(../blocks/overview/__grid-image/overview__grid-image.css);
+@import url(../blocks/overview/__list-item/overview__list-item.css);
+@import url(../blocks/overview/__list-item/_weight/overview__list-item_weight_bold.css);
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__grid-image/gallery__grid-image.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__headings/cards__headings.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__url-holder/cards__url-holder.css);
+@import url(../blocks/cards/__url-lable/cards__url-lable.css);
 @import url(../blocks/cards/__url/cards__url.css);
 @import url(../blocks/cards/__content/cards__content.css);
 @import url(../blocks/cards/__image/cards__image.css);
@@ -40,4 +45,3 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/active/active.css);

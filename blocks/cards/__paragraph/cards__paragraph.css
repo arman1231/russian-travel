@@ -10,13 +10,7 @@
 .cards__paragraph:not(:last-child) {
   margin-bottom: 26px;
 }
-@media screen and (max-width: 1023px) and (min-width: 768px) {
-  .cards__paragraph {
-    font-size: 16px;
-    line-height: 163%;
-  }
-}
-@media screen and (max-width: 767px) and (min-width: 320px) {
+@media screen and (max-width: 1023px) and (min-width: 320px) {
   .cards__paragraph {
     font-size: 16px;
     line-height: 163%;
